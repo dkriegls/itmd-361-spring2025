@@ -141,3 +141,10 @@ Take the css rules below and properly attach them to the html so that your index
 {	float: left;<br>
 	position: relative;<br>
 	right: 50%;}
+***
+{       width: 960px;<br>
+        text-align: center;}
+
+***
+{       font-weight: 900;<br>
+        font-size: 48px;}
